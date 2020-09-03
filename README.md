@@ -13,3 +13,6 @@ Modified Flight control/PDB mounting for standardized 30.5mm mounting
 added more wire passages and tie down locations
 modified main frame plates overall to add 
 mounting locations for front/rear 3D printed bumpers
+
+
+# visit SeeMeCNC .com menu item SUPPORT for more docs & guides for RAMBo controlled SeeMeCNC 3D printers.
